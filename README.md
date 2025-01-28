@@ -1,4 +1,4 @@
-# cognitive-exercise
+# Cognitive Exercise
 ## Aplicativo para exercicios cognitivos
 
 Explicação do código:
